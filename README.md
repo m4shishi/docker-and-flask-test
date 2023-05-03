@@ -4,7 +4,7 @@
 
 `env/Scripts/Activate.ps1`
 
-`pip3 install flask,..and all the libraries imported in products.py`
+`pip3 install flask`,..and all the libraries imported in products.py
 
 `pip freeze > requirements.txt`
 
